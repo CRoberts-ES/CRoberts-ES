@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Cae
 
 ## 💻 Software Engineer | 🌱 Climate Tech
 
@@ -23,16 +23,11 @@ I'm a software engineer building platforms that help businesses and organization
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CRoberts-ES&show_icons=true&theme=dark)
 
 ### 🔍 Currently Learning
 
 - Graph Databases for emissions relationship mapping
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
 
 ---
 
